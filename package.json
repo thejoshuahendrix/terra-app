@@ -1,7 +1,6 @@
 {
     "name": "test",
     "version": "0.1.0",
-    "private": true,
     "dependencies": {
         "@terra-dev/use-wallet": "^2.5.2",
         "@terra-money/terra.js": "^3.0.11",
@@ -36,8 +35,4 @@
             "last 1 safari version"
         ]
     },
-    "engines": {
-        "node": "16.13.2",
-        "npm": "8.1.2"
-      }
 }
